@@ -1,4 +1,4 @@
-## Hi, I’m Maya
+## Hi, I’m Hortonchipy
 
 I run a blog focused on men’s lifestyle, sharing content around fashion, grooming, health, and everyday style tips.
 
