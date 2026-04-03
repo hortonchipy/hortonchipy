@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Maya
 
-<!--
-**hortonchipy/hortonchipy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run a blog focused on men’s lifestyle, sharing content around fashion, grooming, health, and everyday style tips.
 
-Here are some ideas to get you started:
+### What I Share
+- Men’s fashion ideas
+- Grooming and self care
+- Health and lifestyle tips
+- Simple practical guides
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About My Work
+I create content that is easy to follow and useful in daily life. The goal is to keep things simple and practical.
+
+### Connect
+Website: http://essentialmens.com/
