@@ -11,5 +11,4 @@ I run a blog focused on men’s lifestyle, sharing content around fashion, groom
 ### About My Work
 I create content that is easy to follow and useful in daily life. The goal is to keep things simple and practical.
 
-### Connect
-Website: http://essentialmens.com/
+
